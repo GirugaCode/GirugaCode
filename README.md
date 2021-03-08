@@ -1,1 +1,1 @@
-![Welcome Logo](/assests/hello_there.png)
+![Welcome Logo](https://imgur.com/4vyxgLU)
